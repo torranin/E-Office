@@ -12,3 +12,18 @@
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
+
+
+$font-navbar-color: #ffffff;
+
+.navbar-light .navbar-nav .nav-link {
+  color: $font-navbar-color;
+}
+
+$btn-host-primary: pink;
+.btn-host-primary {
+  color: #999999;
+  background-color: $btn-host-primary;
+  background-image: none;
+  border-color: $btn-host-primary;
+}

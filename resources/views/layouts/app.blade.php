@@ -104,7 +104,7 @@
                         @else
                             <form class="form-inline my-2 my-lg-0">
                                 <input class="form-control mr-sm-2" type="search" placeholder="ค้นหา..." aria-label="Search">
-                                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">ค้นหา</button>
+                                <button class="btn btn-host-primary my-2 my-sm-0" type="submit">ค้นหา</button>
                             </form>
                             <li class="nav-item dropdown">
                                 <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
