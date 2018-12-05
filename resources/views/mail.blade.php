@@ -1,11 +1,11 @@
 @extends('layouts.app')
-@section('title','E-Office')
+@section('title','E-Office (จดหมายทั้งหมด)')
 @section('content')
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">หน้าหลัก</div>
+                <div class="card-header">จดหมายทั้งหมด</div>
 
                 <div class="card-body">
                     @if (session('status'))
